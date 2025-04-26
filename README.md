@@ -124,5 +124,4 @@ Scripts are actively maintained and organized for learning, automation, and scri
 
 ## 👨‍💻 Author
 
-Made with ☕ and PowerShell by [@fitimhajdini](https://github.com/fitimhajdini)  
-Focused on practical Azure skills, automation, and passing the **AZ-104** 💪
+Made with PowerShell by [@fitimhajdini](https://github.com/fitimhajdini)  
